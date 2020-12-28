@@ -16,8 +16,6 @@ Run all specs: npm test
 
 <I used Visual Studio Code IDE, code editor>
 
-<WebdriverIO - framework>
-
 <Mocha JS testing framework>
 
 <Chai JS assertion library>
